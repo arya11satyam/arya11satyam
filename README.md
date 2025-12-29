@@ -72,12 +72,4 @@ Cloud-native platforms, Kubernetes, infrastructure automation, CI/CD pipelines, 
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arya11satyam&theme=dark&hide_border=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=arya11satyam&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arya11satyam&theme=dark&hide_border=true&layout=compact)
-
----
-
 ![Profile Views](https://visitcount.itsvg.in/api?id=arya11satyam&icon=0&color=0)
