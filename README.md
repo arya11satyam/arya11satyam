@@ -71,5 +71,3 @@ Cloud-native platforms, Kubernetes, infrastructure automation, CI/CD pipelines, 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamarya1999@gmail.com)
 
 ---
-
-![Profile Views](https://visitcount.itsvg.in/api?id=arya11satyam&icon=0&color=0)
